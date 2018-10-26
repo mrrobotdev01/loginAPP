@@ -86,14 +86,13 @@
               
             "../node_modules/bootswach/dist/simplex/bootstrap.css",
             "../node_modules/font-awesome/css/font-awesome.css",
-            
-              "src/styles.sccs"
+            "src/styles.sccs"
             ],
+            "scripts": [
               "../node_modules/jquery/dist/jquery.js",
               "../node_modules/popper.js/dist/umd/popper.js",
               "../node_modules/bootstrap/dist/js/bootstrap.js"
-          
-            ],
+          ],
             "assets": [
               "src/favicon.ico",
               "src/assets"
